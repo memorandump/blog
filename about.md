@@ -5,6 +5,6 @@ title: About
 
 </> Hello.
 
-My name is Hưng. I am a Saigon-based developer. This is my personal memo. I am forgetful sometimes so I write to remember things better. I ramble on different stuffs but mostly technical ones :) You guys feel free to reach me here baohung88@gmail.com.  
+My name is Hưng. I am a Saigon-based developer. This is my personal memo. I have limited memory so I dump it down here. I ramble on different stuffs but mostly technical ones :) You guys feel free to reach me via baohung88@gmail.com.  
 
 **Coding for foods..**
