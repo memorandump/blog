@@ -5,6 +5,6 @@ title: About
 
 </> Hello.
 
-My name is Hưng. I am a Saigon-based developer. This is my personal memo. I ramble on different stuffs but mostly technical ones :) You guys feel free to reach me via baohung88@gmail.com.  
+My Id is Hưng. My posts are Associative in order. I ramble on different stuffs but mostly computer science Category :) I am a Task-based developer. You might realize that I am a big fan of functional programming. Feel free to reach me via baohung88@gmail.com.  
 
 **Coding for foods..**
